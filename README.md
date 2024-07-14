@@ -155,7 +155,7 @@ Big thanks to [Dicoding](https://www.dicoding.com/)
 
 ## Certificate
 
-<img src="./assets/certificate.jpg"
+<img src="./src/public/doc/simfoniSelera-certificate.png"
      alt="Certificate">
 
 <br clear="both">
