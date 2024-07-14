@@ -136,22 +136,9 @@ This web app is built using the JavaScript bundler Webpack with the following fe
 
 ---
 
-## Website Preview:
-
-<br clear="both">
-
-<div align="center">
-<img src="./src/public/doc/xxx"
-     alt="Mockup SimfoniSelera">
-</div>
-
-<br clear="both">
-
----
-
 ## Warning!
 
-This repository is a submission for the [Belajar Fundamental Front-End Web Developer](https://www.dicoding.com/academies/163) class at Dicoding. This class has submissions that must be completed to receive a certificate. The contents of this repository are the final section that includes the required criteria.
+This repository is a submission for the [Menjadi Front-End Web Developer Expert](https://www.dicoding.com/academies/219) class at Dicoding. This class has submissions that must be completed to receive a certificate. The contents of this repository are the final section that includes the required criteria.
 
 Make this repo a reference:
 
@@ -232,4 +219,5 @@ The npm scripts used in this project are:
 - **Integration test:** `npm run test`
 - **End to End (E2E) test:** `npm run e2e`
   - Before starting the E2E test, the development server must be run first.
+
 #
