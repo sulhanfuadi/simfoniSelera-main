@@ -232,5 +232,4 @@ The npm scripts used in this project are:
 - **Integration test:** `npm run test`
 - **End to End (E2E) test:** `npm run e2e`
   - Before starting the E2E test, the development server must be run first.
-#   s i m f o n i S e l e r a - m a i n  
- 
+#
