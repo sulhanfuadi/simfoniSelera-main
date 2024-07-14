@@ -4,7 +4,7 @@
 
 ---
 
-## About the Company
+## About the Project
 
 SimfoniSelera is a platform that celebrates the diverse flavors of Indonesia, helping you create memorable dining experiences.
 
